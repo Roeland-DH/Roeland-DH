@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roeland-DH
 - 👀 I’m interested in lemmings
 - 🌱 I’m currently learning to train lemmings
-- 💞️ I’m looking to collaborate on teach lemmings how to make gin and tonic
+- 💞️ I’m looking to collaborate on teaching lemmings how to make gin&tonic
 - 📫 How to reach me smoke signaling.
 
 <!---
