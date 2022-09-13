@@ -2,7 +2,7 @@
 - 👀 I’m interested in lemmings
 - 🌱 I’m currently learning to train lemmings
 - 💞️ I’m looking to collaborate on teaching lemmings how to make gin&tonic
-- 📫 How to reach me smoke signaling.
+- 📫 You can reach me using smoke signaling or --- .-. / ..- ... . / -- --- .-. ... . / -.-. --- -.. .
 
 <!---
 Roeland-DH/Roeland-DH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
